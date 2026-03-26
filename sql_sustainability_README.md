@@ -1,4 +1,4 @@
-# Sustainability Impact Analysis (SQL project)
+# 💻🌿 Sustainability Impact Analysis (SQL project) 🌿💻
 
 ## Overview:
 This project analyzes Intel's device repurposing data to evaluate Intels environmental impact, 
@@ -7,24 +7,24 @@ reccomendations to improve sustainability strategies by querying and analyzing l
 ____________
 
 ## Tools used:
--SQL
--Data analysis techniques
+- SQL
+- Data analysis techniques
 
 _____________
 
 ## Skills Demonstrated
--Writing complex queries across multiple datasets
--Data aggregation and grouping
--Using common table expressions (CTEs) with 'WITH' clauses
--Applying CASE statements for data categorizaition
--Turning raw datat into comprehensive insights and reccomendations
+- Writing complex queries across multiple datasets
+- Data aggregation and grouping
+- Using common table expressions (CTEs) with 'WITH' clauses
+- Applying CASE statements for data categorizaition
+- Turning raw datat into comprehensive insights and reccomendations
 
 _____________
 
 ## Insights:
--Intels older devices generated higher environmental impact per device due to greater energy and CO2 savings
--Newer devices dominated in total volume but contribute less impact per unit
--Regions with higher carbon intensity benefit more from device repurposing, leading to greater CO2 reducation
+- Intels older devices generated higher environmental impact per device due to greater energy and CO2 savings
+- Newer devices dominated in total volume but contribute less impact per unit
+- Regions with higher carbon intensity benefit more from device repurposing, leading to greater CO2 reducation
 
 _____________
 
