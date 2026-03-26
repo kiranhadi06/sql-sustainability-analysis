@@ -1,4 +1,4 @@
-# 💻🌿 Sustainability Impact Analysis (SQL project) 🌿💻
+# 💻🌿 Sustainability Impact Analysis 🌿💻
 
 ## Overview:
 This project analyzes Intel's device repurposing data to evaluate Intels environmental impact, 
@@ -29,10 +29,10 @@ _____________
 _____________
 
 ## Project Highlights:
--Analyzed over 60,000 repurposed devices using SQL
--Calculate average energy saivings and total co2 reduction
--Identified tradeoffs between scale(newer devices) and efficiency(older devices)
--Provided reccomendations t ooptimize sustainability efforts based on data trends
+- Analyzed over 60,000 repurposed devices using SQL
+- Calculate average energy saivings and total co2 reduction
+- Identified tradeoffs between scale(newer devices) and efficiency(older devices)
+- Provided reccomendations t ooptimize sustainability efforts based on data trends
 
 _____________
 
