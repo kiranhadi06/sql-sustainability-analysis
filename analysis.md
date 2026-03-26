@@ -1,6 +1,6 @@
 # Sustainability Impact Analysis
 
-## Key Findings
+## Key Findings 🔎 🧐
 
 ### 1. Scale of Impact
 **601,740 devices** were repurposed in 2024 which demonstrates the large scale of Intel's sustainability efforts.
