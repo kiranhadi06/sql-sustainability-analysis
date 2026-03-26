@@ -39,6 +39,5 @@ _____________
 Project Files:
 - 'queries.sql' -> contains all SQL queries used for analysis
 - 'analysis.md' -> written insights and  conclusions
-- 'projects.pdf -> full project report and detailed breakdown
 
 
