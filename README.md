@@ -32,7 +32,7 @@ _____________
 - Analyzed over 60,000 repurposed devices using SQL
 - Calculate average energy saivings and total co2 reduction
 - Identified tradeoffs between scale(newer devices) and efficiency(older devices)
-- Provided reccomendations t ooptimize sustainability efforts based on data trends
+- Provided reccomendations to optimize sustainability efforts based on data trends
 
 _____________
 
