@@ -2,7 +2,7 @@
 
 ## Overview:
 This project analyzes Intel's device repurposing data to evaluate Intels environmental impact, 
-with a focus on energy savings and CO₂ reduction. My goal was to identiy patterns and provide data driven
+with a focus on energy savings and CO₂ reduction. My goal was to identify patterns and provide data driven
 reccomendations to improve sustainability strategies by querying and analyzing large datasets. 
 ____________
 
